@@ -24,10 +24,11 @@ The questions I tried to answer, using this data, are:
 
 
 ### Project files
-survey_results_public.csv - data, survey responses
-survey_results_schema.csv - data schema
-so_survey.ipynb - Jupiter Notebook with data analysis
-so_logo2.png - Stack Overflow logo, used to create a wordcloud
+
+survey_results_public.csv - data, survey responses  
+survey_results_schema.csv - data schema  
+so_survey.ipynb - Jupiter Notebook with data analysis  
+so_logo2.png - Stack Overflow logo, used to create a wordcloud  
 
 
 ### Used libraries:
