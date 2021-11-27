@@ -1,4 +1,4 @@
-# Udacity Data Scientist Nano Degree
+# Udacity Data Scientist Nanodegree
 ## Project 1 (Write A Data Science Blog Post)
 
 ### Motivation and a summary of the results of the analysis
@@ -14,11 +14,11 @@ The questions I tried to answer, using this data, are:
 
 2. What operating systems were used the most among all respondents and in different countries?
 
-
+*Windows is by far the leading operating system. Next, Linux-based and MacOS are used by about the same amount of respondents.*
 
 3. What highest level of education do respondents have? What about some specific countries?
 
-
+*Almost half of respondents have Bachelor's degree. Next big group, just a little over 20%, have Master's degree.*
 
 4. How well can we predict the age of respondents?
 
