@@ -21,6 +21,7 @@ The questions I tried to answer, using this data, are:
 *Almost half of respondents have Bachelor's degree. Next big group, just a little over 20%, have Master's degree.*
 
 4. How well can we predict the age of respondents?
+*With just default parameters for the model we could predict the Age with 70.4% accuracy.*
 
 
 ### Project files
