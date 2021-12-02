@@ -25,7 +25,7 @@ India has by far highest proportion of respondents with Bachelor’s degree.*
 
 4. How well can we predict the age of respondents?
 
-*With just default parameters for the model we could predict the Age with 70.6% accuracy.*
+*With just default parameters for the model we could predict the Age with 71% accuracy.*
 
 The average, whole world, trends not necessary go the same way, as in specific countries. Sometimes the difference is significant.
 
